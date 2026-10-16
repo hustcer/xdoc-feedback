@@ -40,6 +40,7 @@
 | [Converter API](https://docs.structurify.io/en/pptx-converter/api-reference/)     | 转换函数、选项、返回值与错误处理。                          |
 | [Xdoc Agent 工作流](https://docs.structurify.io/en/pptx-runtime/agents/)          | 通过 schema、JSON-RPC、MCP 和 daemon 自动化演示文稿工作流。 |
 | [llms.txt](https://docs.structurify.io/llms.txt)                                  | 面向 AI 工具的文档索引，包含各页面的 Markdown 入口。        |
+| [llms-full.txt](https://docs.structurify.io/llms-full.txt) | 面向 AI 工具的完整文档内容，汇总于单个文本文件。 |
 
 ## 问题反馈
 

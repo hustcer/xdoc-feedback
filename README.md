@@ -40,6 +40,7 @@ See [PPTX Runtime (Xdoc CLI)](https://docs.structurify.io/en/pptx-runtime/), [Ge
 | [Converter API](https://docs.structurify.io/en/pptx-converter/api-reference/)           | Conversion functions, options, return values, and error handling.                |
 | [Xdoc agent workflows](https://docs.structurify.io/en/pptx-runtime/agents/)             | Presentation automation through schemas, JSON-RPC, MCP, and the daemon.          |
 | [llms.txt](https://docs.structurify.io/llms.txt)                                        | Documentation index for AI tools, including Markdown entry points for each page. |
+| [llms-full.txt](https://docs.structurify.io/llms-full.txt) | Full documentation content in a single text file for AI tools. |
 
 ## Reporting issues
 
